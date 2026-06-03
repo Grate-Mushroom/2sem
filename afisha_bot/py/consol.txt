@@ -1,0 +1,19 @@
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @Afisha42_bot id=8953737415 - 'Afisha42'
+INFO:aiogram.event:Update id=716591698 is handled. Duration 483 ms by bot id=8953737415
+INFO:aiogram.event:Update id=716591699 is handled. Duration 263 ms by bot id=8953737415
+Кэш устарел
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Driver [C:\Users\htneveStranger\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+INFO:aiogram.event:Update id=716591700 is handled. Duration 10300 ms by bot id=8953737415
+INFO:aiogram.event:Update id=716591701 is handled. Duration 847 ms by bot id=8953737415
+INFO:aiogram.event:Update id=716591702 is handled. Duration 488 ms by bot id=8953737415
+INFO:aiogram.event:Update id=716591703 is handled. Duration 337 ms by bot id=8953737415
+Используем кэш 
+INFO:aiogram.event:Update id=716591704 is handled. Duration 659 ms by bot id=8953737415
+INFO:aiogram.event:Update id=716591705 is handled. Duration 268 ms by bot id=8953737415
+INFO:aiogram.event:Update id=716591706 is handled. Duration 280 ms by bot id=8953737415
+INFO:aiogram.event:Update id=716591707 is handled. Duration 128 ms by bot id=8953737415
+Напоминание сохранено: A
+INFO:aiogram.event:Update id=716591708 is handled. Duration 154 ms by bot id=8953737415
+Отправка напоминания: A -> 1946853881
